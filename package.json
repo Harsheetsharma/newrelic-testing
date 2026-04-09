@@ -11,7 +11,9 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "dotenv": "^17.4.1",
     "express": "^5.2.1",
-    "newrelic": "^13.18.0"
+    "newrelic": "^13.18.0",
+    "winston": "^3.19.0"
   }
 }
