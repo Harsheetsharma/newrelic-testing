@@ -1,18 +1,36 @@
-# This is a simple node express app to test and learn the monitoring using New Relic
+<h1 align="center">Welcome to week-26-1 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
+  </a>
+</p>
 
-here in this app i have created a node express app to check that the throughput and transaction time and logs using newRelic , New Relic is a minitoring tool which can be used to check the health and performance of app or system
+> Prometheus and grafana learning
 
-### local setup
+## Install
 
-clone repo
-
-```
-cd week-26-1
-
+```sh
 npm install
-
-npm start
-
 ```
 
-this is for just learning the monitoring tools.
+## Usage
+
+```sh
+npm run start
+```
+
+## Author
+
+👤 **harsheet**
+
+- Website: https://harsheet-portfolio.vercel.app
+- Github: [@harsheetsharma](https://github.com/harsheetsharma)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+---
+
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
